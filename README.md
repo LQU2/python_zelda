@@ -3,21 +3,21 @@
 > A curated list of all the steps to build a zelda like game in python
 ## Todo:
 
-- project setup
-- level setup
-- creating the player
-- creating the camera
-- graphics
-- player animations
-- weapons
-- ui
-- magic setup
-- enemy creation
-- player-enemy interaction
-- particles
-- spells
-- upgrade system and menu
-- final fixes and sound
+- project setup - Anisa
+- level setup - Anisa
+- creating the player - Anisa
+- creating the camera - Montek
+- graphics - Montek
+- player animations - Anisa
+- weapons - Anisa
+- ui - Anisa
+- magic setup - Montek
+- enemy creation - Anisa
+- player-enemy interaction - Anisa
+- particles - Anisa
+- spells - Montek
+- upgrade system and menu - Montek
+- final fixes and sound - Anisa
 
 
 
