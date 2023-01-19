@@ -2,4 +2,4 @@
 
 ## Todo:
 
-- add ....
+- project setup
