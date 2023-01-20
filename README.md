@@ -9,7 +9,7 @@
 - creating the camera - Montek
 - graphics - Montek
 - player animations - Anisa
-- weapons - Anisa
+- weapons - Anisa 
 - ui - Anisa
 - magic setup - Montek
 - enemy creation - Anisa
