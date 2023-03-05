@@ -7,7 +7,7 @@
 - level setup - Anisa ✅
 - creating the player - Anisa ✅
 - creating the camera - Montek ✅
-- graphics - Montek
+- graphics - Montek ✅
 - player animations - Anisa
 - weapons - Anisa 
 - ui - Anisa
