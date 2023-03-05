@@ -12,6 +12,7 @@ class Game:
         pygame.display.set_caption('Zelda Dark Souls')
         self.clock = pygame.time.Clock()
         self.level = Level()
+        pygame.key.set_repeat(100)
 
     def run(self):
         while True:
