@@ -26,6 +26,7 @@ class Game:
             pygame.display.update()
             self.clock.tick(FPS)
 
+#test
 
 if __name__ == '__main__':
     game = Game()
