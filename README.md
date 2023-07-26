@@ -8,7 +8,7 @@
 - creating the player - Anisa ✅
 - creating the camera - Montek ✅
 - graphics - Montek ✅
-- player animations - Anisa
+- player animations - Anisa ✅
 - weapons - Anisa 
 - ui - Anisa
 - magic setup - Montek
